@@ -1,7 +1,7 @@
 # Multi Channel CSMA 
  REVIEW OF OPTIMIZING TRANSMIT INTENSITY IN MULTI CHANNEL CSMA A Distributed Approximation Framework
 
-In this repository I have reviewed a work that was basically a part of my summer internship of 2024.
+In this project I have reviewed a work that was basically a part of my summer internship of 2024.
 Functions Used-
 1) ELSclique : It finds maximal cliques using the Bron-Kerbosch algorithm with
    both pivoting and degeneracy ordering.
